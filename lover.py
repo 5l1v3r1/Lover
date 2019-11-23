@@ -8,8 +8,8 @@ from datetime import *
 
 __program__ = 'lover'
 __version__ = 'v.01'
-__author__ = 'Younes benelhaj'
-__github__ = 'https://github.com/doophack/lover'
+__author__ = 'r2dr0dn'
+__github__ = 'https://github.com/r2dr0dn/lover'
 
 def banner():
 	os.system("resize -s 34 95")
@@ -31,9 +31,9 @@ def banner():
 	col=(Fore.RED+ '''            .-.
            [.-''-.,
            |  //`~\)
-           (<| 0\0|>_	                    .:: Do0pH2ck ::.
+           (<| 0\0|>_	                    .:: r2dr0dn ::.
            ";\  _"/ \\_ _,.:: Hash Generator & Cracker Online Offline ::.
-          __\|'._/_  \ '='-,	     .:: @Younes_benelhaj ::.
+          __\|'._/_  \ '='-,	     .:: @r2dr0dn ::.
          /\ \    || )_///_\>>
         (  '._ T |\ | _/),-'
          '.   '._.-' /'/ |
